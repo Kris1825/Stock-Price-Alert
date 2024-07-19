@@ -23,5 +23,5 @@ The **Stock Price Alert System** is a Python application that monitors the stock
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Harxhit/Stock-Alert.git>
 cd <repository-directory>
