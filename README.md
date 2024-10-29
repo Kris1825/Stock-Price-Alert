@@ -72,3 +72,4 @@ EMAIL_PASSWORD=your_email_password
 
 python stock_price_alert.py
 
+### Modified by Kris1825

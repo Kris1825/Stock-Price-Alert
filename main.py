@@ -95,3 +95,4 @@ if "Time Series (5min)" in stock_data:
         print("Not enough data to compare latest and previous closing prices.")
 else:
     print("No 'Time Series (5min)' data found.")
+# TODO: Implement alert feature
